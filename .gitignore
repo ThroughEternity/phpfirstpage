@@ -6,9 +6,10 @@
 
 .env
 
-.yml
 
 
 Dockerfile
 
 Dockerfile5.6.txt
+
+Docker-compose.yml
